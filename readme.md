@@ -17,5 +17,5 @@ Furthermore,
 9. Name the files/ folder structure appropriately
 10. Maximum use of Semantic Elements instead of normal container elements
 
-My websit:-
+My Website:-
 http://pranitamusande.github.io/HTML-CSS-Assignment-2/
