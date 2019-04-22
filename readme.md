@@ -16,3 +16,6 @@ Furthermore,
 8. The code must be indented and you must include proper comments etc.
 9. Name the files/ folder structure appropriately
 10. Maximum use of Semantic Elements instead of normal container elements
+
+My websit:-
+http://pranitamusande.github.io/HTML-CSS-Assignment-2/
